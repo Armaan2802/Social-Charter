@@ -1,2 +1,2 @@
-# TrendModel-gt
-Trending Model that displays relevant products based on Google Trends
+# Social-Charter
+Trending Models that displays relevant products based on various platforms
