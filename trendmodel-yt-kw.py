@@ -4,7 +4,8 @@ from jsonpath_ng import jsonpath, parse
 import pandas as pd
 pd.options.display.max_colwidth = 150
 
-url = "https://www.googleapis.com/youtube/v3/search?key=AIzaSyBmgz_gkQ5b8R8XxS-k2UvkzdfkQw5k-LE"
+YOUR_API_KEY=""
+url = "https://www.googleapis.com/youtube/v3/search?key="+YOUR_API_KEY
 
 pages = ['CDIQAQ', 'CDIQAA', 'CGQQAA', 'CJYBEAA']
 
